@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently doing my Undergrad in Computer Sciences.
+I am a Software Engineer in the making.
+Glad to be here.
+
 <!--
 **Percy2K5/Percy2K5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
