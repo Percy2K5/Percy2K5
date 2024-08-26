@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently doing my Undergrad in Computer Sciences.
+Currently doing my Undergrad in Computer Sciences at the University of Johannesburg.
 I am a Software Engineer in the making.
 Glad to be here.
 
